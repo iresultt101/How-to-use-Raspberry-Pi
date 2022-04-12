@@ -1,11 +1,3 @@
-# @Author : 刘林林
-# @Email : 1215518255@qq.com
-# @File : myTK.py
-# @Time : 2022/4/11 10:36
-# @Software: PyCharm
-# -*- coding: utf-8 -*-
-# !/usr/bin/env python
-# -*- coding: utf-8 -*-
 import random
 from tkinter import *
 # import hashlib
